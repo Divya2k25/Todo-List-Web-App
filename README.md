@@ -23,4 +23,4 @@ JavaScript (ES6)
 localStorage API
 
 ##Screenshot
-![Todo List Screenshot](To%20do%20list/screenshot.png)
+![Todo List Screenshot](To%20Do%20List/screenshot.png)
