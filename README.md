@@ -2,6 +2,7 @@
 
 A simple, interactive Todo List Web Application built with HTML, CSS, and JavaScript that allows users to add, complete, and delete tasks. Tasks are stored in localStorage, ensuring they persist even after refreshing the page.
 
+
 ##Features
 
 Add Tasks : Users can add tasks using the input field and + button.
@@ -15,12 +16,15 @@ Persistent Storage : All uncompleted tasks remain visible even after refreshing 
 Dropdown Filter : View Completed or Uncompleted tasks using the dropdown filter.
 
 
+
 ##Tech Stack
 
 HTML5
 CSS3 
 JavaScript (ES6)
 localStorage API
+
+
 
 ##Screenshot
 ![Todo List Screenshot](To%20Do%20List/screenshot.png)
