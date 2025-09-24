@@ -1,29 +1,22 @@
 # Todo-List-Web-App
 
-A simple, interactive Todo List Web Application built with HTML, CSS, and JavaScript that allows users to add, complete, and delete tasks. Tasks are stored in localStorage, ensuring they persist even after refreshing the page.
+A *simple and interactive Todo List* built with *HTML, CSS & JavaScript*.  
+Keep track of your tasks, mark them as completed, and manage them easily — all stored in *localStorage* so nothing disappears on page refresh! 🚀
 
+## ✨ Features
 
-##Features
+- ➕ Add new tasks quickly with the + button  
+- ✅ Mark tasks as completed (line-through) with the tick button  
+- 🗑 Delete tasks instantly with the trash button  
+- 💾 Persistent tasks using *localStorage*  
+- 🔄 Filter tasks using the dropdown: *Completed* or *Uncompleted*
 
-Add Tasks : Users can add tasks using the input field and + button.
+## 🛠 Tech Stack
 
-Mark as Completed : Click the tick button to mark a task as completed with a line-through. Completed tasks are removed from localStorage so they don’t reload on refresh.
-
-Delete Tasks : Click the trash button to remove a task from both the UI and localStorage.
-
-Persistent Storage : All uncompleted tasks remain visible even after refreshing the page.
-
-Dropdown Filter : View Completed or Uncompleted tasks using the dropdown filter.
-
-
-
-##Tech Stack
-
-HTML5
-CSS3 
-JavaScript (ES6)
-localStorage API
-
+- HTML5  
+- CSS3  
+- JavaScript (ES6)  
+- localStorage API  
 
 
 ##Screenshot
